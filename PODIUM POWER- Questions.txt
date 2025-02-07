@@ -1,0 +1,19 @@
+﻿PODIUM POWER - Questions:
+ 
+1.           Use the Data Blending technique to join both the tables after importing them to Tableau.
+2.           Create a stacked bar visual to show medal distribution of each country in terms of Bronze, Silver and Gold Medals. Use a filter to show only top 10.
+3.           Create a histogram to analyze the age distribution of athletes participating in different sports to identify the age groups that dominate specific events.
+4.           Create a histogram to analyze the age distribution of athletes participating in different sports to identify the distribution of Gold, Silver and Bronze medals that dominate specific events.
+5.           Create a donut chart to visualize the comprehensive gender distribution of athletes in the Olympics. Provide users with the flexibility to select a specific country of interest and observe the corresponding gender breakdown.
+6.           Create a side by side bar chart as per the gender showing distribution of overall Gold, Silver and Bronze Medals.
+7.           Create a line chart to showcase the trend of Olympic participation over the years, highlighting the total number of athletes participating in each edition.
+8.           Create a line chart to showcase the trend of Olympic participation over the years, highlighting the total number of countries participating in each edition.
+9.           Create a Treemap to showcase Top sports as per the total number of medals each sport has received.
+10.      Create a Filled Map to showcase total number of medals each country has received.
+11.      Create a line chart depicting number of teams participating in Summer and Winter Olympics simultaneously.
+12.      Create a KPI for Total Medals, Total Gold Medals, Total Silver Medals and Total Bronze Medals.
+13.      Create a KPI for Total Athletes.
+14.      Create a KPI for Total Sports
+15.      Create an insight other than those mentioned.
+16.      Create an interactive Dashboard/Dashboards for all the sheets.
+17.      Create a story for all the sheets and dashboards.
